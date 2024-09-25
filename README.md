@@ -1,4 +1,4 @@
-ze Project 🎮🧩
+Maze Project 🎮🧩
 
 Welcome to **The Maze**, a thrilling 3D maze game built using C and SDL2! This project transforms a 2D map into an immersive 3D world using ray casting, offering an exciting and interactive experience.
 
